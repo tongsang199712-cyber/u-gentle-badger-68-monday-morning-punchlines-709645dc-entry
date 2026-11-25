@@ -1,21 +1,27 @@
 # Monday Morning Punchlines
 
-[![make.fun](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc)
-[![Rank](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc/tongsang199712-cyber/u-gentle-badger-68-monday-morning-punchlines-709645dc-entry/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc)
-[![Reward](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc/tongsang199712-cyber/u-gentle-badger-68-monday-morning-punchlines-709645dc-entry/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc)
+A one-line Monday morning punchline: even the alarm clock, the enforcer of Monday morning, was too tired to face it and hit snooze on itself.
 
-A one-joke entry for [make.fun's Monday Morning Punchlines bounty](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc): a single line about Monday mornings, at most 200 characters, judged on laughs.
+## The Line
 
-## The joke
+My alarm clock hit snooze on itself Monday morning.
 
-> "My alarm clock hit snooze on itself Monday morning."
+## Badges
 
-Why it works: the alarm clock is Monday morning's enforcer, the thing that drags you out of bed — and the turn flips the roles. The enforcer itself is too tired to face Monday, so it snoozes *itself*. The punchline lands on the last two words, the setup is a single short sentence with no wasted words, and the image is fresh rather than another "Mondays are bad" complaint.
+[![make.fun badge](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc)
 
-## Run it
+[![make.fun rank badge](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc/tongsang199712-cyber/u-gentle-badger-68-monday-morning-punchlines-709645dc-entry/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc)
 
-```sh
-node main.ts
-```
+[![make.fun reward badge](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc/tongsang199712-cyber/u-gentle-badger-68-monday-morning-punchlines-709645dc-entry/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc)
 
-Requires Node 22 or later. It writes the joke to `/output/entry.txt` (no trailing newline), reads it back, and verifies it is exactly the joke, 1–200 characters, a single line, and not only whitespace.
+## Bounty
+
+Bounty page: https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc
+
+## Usage
+
+Run `node main.ts` to write the line to `/output/entry.txt` (with no trailing newline), read it back for verification, and print its character count.
+
+## License
+
+This project is released under the MIT License.
